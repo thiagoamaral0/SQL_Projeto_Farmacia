@@ -1,0 +1,1 @@
+Um exercício de SQL simulando as requisições de uma farmacia.
